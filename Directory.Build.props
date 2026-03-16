@@ -1,0 +1,15 @@
+<Project>
+  <PropertyGroup>
+    <Authors>Huansky</Authors>
+    <Company>Huansky</Company>
+    <PackageId>$(AssemblyName)</PackageId>
+    <Version>1.0.0</Version>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/blue-cloud-net/dotnet-common-utils</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/blue-cloud-net/dotnet-common-utils</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <Description>A collection of common utility helpers and extension methods for .NET development.</Description>
+    <Copyright>Copyright © Huansky 2026</Copyright>
+    <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+  </PropertyGroup>
+</Project>

@@ -1,0 +1,11 @@
+<Solution>
+
+  <Folder Name="/src/">
+    <Project Path="src/Huansky.Utils/Huansky.Utils.csproj" />
+  </Folder>
+
+  <Folder Name="/tests/">
+    <Project Path="tests/Huansky.Utils.Tests/Huansky.Utils.Tests.csproj" />
+  </Folder>
+  
+</Solution>
